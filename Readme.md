@@ -2,7 +2,7 @@
 
 This is my implementation for the research paper "Feature engineering strategies for credit card fraud detection" by Bahnsen et. al [link](https://www.sciencedirect.com/science/article/abs/pii/S0957417415008386). In this implementation, I have tried to implement the 3rd section from the paper i.e., "Feature engineering for fraud detection". Here, authors have first proposed features for capturing the customer spending patterns, followed by time features.
 
-Checkout the notebook "Aggregated_Features.ipynb" for calculating the set of features for capturing the customer spending pattern.
+Checkout the notebook "Aggregated_Features.ipynb" for calculating the set of features capturing the customer spending pattern.
 
 TODO:
 * Time Features
